@@ -1,0 +1,8 @@
+# Ignore binaries
+bin/
+# Ignore modules cache
+.mod/
+.sum/
+# Ignore IDE files
+.vscode/
+.idea/
